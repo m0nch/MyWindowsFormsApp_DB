@@ -90,10 +90,6 @@
       <DependentUpon>MyDataModel.tt</DependentUpon>
     </Compile>
     <Compile Include="DataInjection.cs" />
-    <Compile Include="DataProvider\DataProvider.cs" />
-    <Compile Include="DataProvider\IDataProvider.cs" />
-    <Compile Include="DataProvider\ISqlDataProvider.cs" />
-    <Compile Include="DataProvider\SqlDataProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
