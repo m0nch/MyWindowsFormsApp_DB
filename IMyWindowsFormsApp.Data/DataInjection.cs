@@ -1,5 +1,4 @@
 ﻿using IMyWindowsFormsApp.Data.DAL;
-using IMyWindowsFormsApp.Data.DataProvider;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;

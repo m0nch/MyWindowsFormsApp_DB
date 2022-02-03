@@ -1,5 +1,4 @@
-﻿using IMyWindowsFormsApp.Data.DataProvider;
-//using IMyWindowsFormsApp.Data.DB;
+﻿//using IMyWindowsFormsApp.Data.DB;
 using IMyWindowsFormsApp.Data.DAL;
 //using IMyWindowsFormsApp.Data.Models;
 using System;
